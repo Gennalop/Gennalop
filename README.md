@@ -1,10 +1,10 @@
 <h1 align="center">print("Hello, World!")</h1>
-<h3 align="center">I'm Genesis, a Computer Science student at ESPOL.</h3>
+<h3 align="center">I'm Genesis, a Computer Science student at ESPOL</h3>
 <!--Nakanoart Nakanodrawing GIF-->
 <p align="center"> <img src="https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif" alt="gif" height="200"/> </p>
 
-## About me
-* ❤️ Interest in cybersecurity and AI
+## About Me
+* ❤️ Interested in cybersecurity and AI
 * 🌱 Currently learning React
 * 📫 How to reach me: gennalop@espol.edu.ec
 
@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
 
-## Proyectos y Contribuciones
+## Proyects
 
   | [Tic-Tac-Toe](https://github.com/Gennalop/ProyectoEstructurasP2) | [Course Landing Page](https://github.com/Gennalop/Landing) | [Battle Ship](https://github.com/Gennalop/BattleShip) |
   |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
